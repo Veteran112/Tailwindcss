@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d391c04f.css",
+    "main.js": "/static/js/main.51eb34b3.js",
+    "static/js/787.c7c58086.chunk.js": "/static/js/787.c7c58086.chunk.js",
+    "static/media/Avid_Card_Slant.png": "/static/media/Avid_Card_Slant.bbe7ebfc126fc0f4589e.png",
+    "static/media/ppl-phone-img.png": "/static/media/ppl-phone-img.a9c5dd269e36acf581ce.png",
+    "static/media/service-img.png": "/static/media/service-img.8af5d5b58a4b7c05df0b.png",
+    "static/media/imac-phone.png": "/static/media/imac-phone.82a4e6fc097afce9d66b.png",
+    "static/media/FontsFree-Net-FuturaStd-Book.ttf": "/static/media/FontsFree-Net-FuturaStd-Book.06d93cb897eedab9b21b.ttf",
+    "static/media/FuturaStdBook.otf": "/static/media/FuturaStdBook.5f83b0049a36e35d2265.otf",
+    "static/media/benefit.png": "/static/media/benefit.d55f46a8ba33f0ffeccf.png",
+    "static/media/star.png": "/static/media/star.bff04060c4fe46100985.png",
+    "static/media/early-access-icon.png": "/static/media/early-access-icon.b87f4e126dea3fe4310d.png",
+    "index.html": "/index.html",
+    "main.d391c04f.css.map": "/static/css/main.d391c04f.css.map",
+    "main.51eb34b3.js.map": "/static/js/main.51eb34b3.js.map",
+    "787.c7c58086.chunk.js.map": "/static/js/787.c7c58086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d391c04f.css",
+    "static/js/main.51eb34b3.js"
+  ]
+}
